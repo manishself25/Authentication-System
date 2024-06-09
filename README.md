@@ -8,6 +8,15 @@
    - Take user details
    - Name
    - phone number
+     - Check length of phone number
    - Email
+     - Check valid Email
     - 2 Security Question
-    - 
+    - Generate backup code
+2. SignIn
+   - Username
+     - Check Username Already SignUp or nor
+   - Password
+     - Forget Password
+     - Update Password
+   - Signin Using Backup code

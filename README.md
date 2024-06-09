@@ -20,3 +20,5 @@
      - Forget Password
      - Update Password
    - Signin Using Backup code
+   - Signin Through Security Question
+     - Update Security Question's Answer

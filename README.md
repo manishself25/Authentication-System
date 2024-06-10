@@ -22,3 +22,7 @@
    - Signin Using Backup code
    - Signin Through Security Question
      - Update Security Question's Answer
+
+
+# What is authentication & how does it work?
+authentication means confirming that a user is who they say they are. This ensures only those with authorized credentials gain access to secure systems. When a user attempts to access information on a network, they must provide secret credentials to prove their identity.

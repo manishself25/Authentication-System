@@ -48,13 +48,16 @@
    -Input fields for Username and Password.
    -Check if the username is already signed up.
    -Validate the password against the stored hashed password.
+
 2. Forgot Password
    -Option to reset the password by verifying the user through:
       -Security questions.
       -Backup code.
       -Sending a reset link to the registered email.
+
 3. SignIn Using Backup Code
    -Input field for backup code to authenticate the user.
+
 4. Update Security Question’s Answer
    -Allow users to update their security questions and answers after logging in.
 

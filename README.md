@@ -43,5 +43,20 @@
 5. Store User Details
    -Save the user details, including hashed password, security question answers, and backup code in a secure database.
 
+# SignIn
+1. Username and Password
+   -Input fields for Username and Password.
+   -Check if the username is already signed up.
+   -Validate the password against the stored hashed password.
+2. Forgot Password
+   -Option to reset the password by verifying the user through:
+      -Security questions.
+      -Backup code.
+      -Sending a reset link to the registered email.
+3. SignIn Using Backup Code
+   -Input field for backup code to authenticate the user.
+4. Update Security Question’s Answer
+   -Allow users to update their security questions and answers after logging in.
+
 # What is authentication & how does it work?
 authentication means confirming that a user is who they say they are. This ensures only those with authorized credentials gain access to secure systems. When a user attempts to access information on a network, they must provide secret credentials to prove their identity.

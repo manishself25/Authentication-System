@@ -63,3 +63,14 @@
 
 # What is authentication & how does it work?
 authentication means confirming that a user is who they say they are. This ensures only those with authorized credentials gain access to secure systems. When a user attempts to access information on a network, they must provide secret credentials to prove their identity.
+
+# 1. Welcome and Player Initialization
+# 2. Question and Answer Setup
+# 3. Lifeline Setup
+# 4. Prize Money Levels
+# 5. Question Selection
+# 6. Main Game Loop
+# 7. Answer Validation
+# 8. Lifeline Functionality
+# 9. End of Game
+# 10. Error Handling and Robustness
